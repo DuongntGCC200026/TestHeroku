@@ -9,9 +9,9 @@
 </head>
 
 <body>
-    <php>
-        echo ("Hiiiii");
-    </php>
+    <?php
+    echo ('Hello world');
+    ?>
 </body>
 
 </html>
